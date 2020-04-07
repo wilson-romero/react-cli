@@ -1,5 +1,3 @@
-<title>@react/cli</title>
-
 # @react/cli
 
 **@react/cli** is a framework for **React** that allows you to take this library to another level, integrate the best practices in the industry into your projects.
